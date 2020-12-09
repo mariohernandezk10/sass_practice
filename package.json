@@ -1,0 +1,22 @@
+{
+  "name": "sass_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariohernandezk10/sass_practice.git"
+  },
+  "author": "Mario Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariohernandezk10/sass_practice/issues"
+  },
+  "homepage": "https://github.com/mariohernandezk10/sass_practice#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
